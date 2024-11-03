@@ -5,7 +5,7 @@ with open("README.md", "r") as r:
 
 setup(
     name="dep_client",
-    version="1.0.0",
+    version="1.0.1",
     author="npdep",
     url="https://github.com/npdep/dep-client",
     description="Data Exfiltration Protocol (DEP) Client - Transfer data with DEP",
